@@ -1,6 +1,6 @@
 # BookstackBackupMaker
 
-Image to backup my K8S Bookstack's database and files to a git repository.
+Image to backup my K8S Bookstack's data (compressed and encrypted with gpg) to a privated git repository.
 
 ## Build Variables
 
